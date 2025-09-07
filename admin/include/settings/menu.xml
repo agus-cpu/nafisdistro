@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<humans>
+<!-- MASTER MENU -->
+<menu><id>A</id><s>0</s><t>s</t><i>fa fa-home</i><n>Home</n><l>../home/index.php</l></menu>
+<menu><id>D</id><s>0</s><t>m</t><i>fa fa-pencil</i><n>Transaksi</n><l>#</l></menu>
+<menu><id>B</id><s>0</s><t>m</t><i>fa fa-edit</i><n>Master Data</n><l>#</l></menu>
+<menu><id>C</id><s>0</s><t>m</t><i>fa fa-calendar</i><n>Laporan</n><l>#</l></menu>
+
+<!-- TRANSAKSI -->
+<menu><id>D1</id><s>D</s><t>sm</t><i>fa fa-pencil</i><n>Pemesanan</n><l>../data_pemesanan/index.php</l></menu>
+<menu><id>D2</id><s>D</s><t>sm</t><i>fa fa-pencil</i><n>Pembelian</n><l>../data_pembelian/index.php?input=tambah</l></menu>
+<menu><id>D3</id><s>D</s><t>sm</t><i>fa fa-pencil</i><n>Penjualan</n><l>../data_penjualan/index.php?input=tambah</l></menu>
+
+<!-- SUB MENU -->
+<menu><id>B1</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Admin</n><l>../data_admin/index.php</l></menu>
+<menu><id>B2</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Bank</n><l>../data_bank/index.php</l></menu>
+<menu><id>B3</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Kategori</n><l>../data_kategori/index.php</l></menu>
+<!--<menu><id>B4</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Komentar</n><l>../data_komentar/index.php</l></menu>-->
+<menu><id>B5</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Ongkir</n><l>../data_ongkir/index.php</l></menu>
+<menu><id>B5</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Satuan</n><l>../data_satuan/index.php</l></menu>
+<menu><id>B6</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Pelanggan</n><l>../data_pelanggan/index.php</l></menu>
+<!--<menu><id>B7</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Pembelian</n><l>../data_pembelian/index.php</l></menu>-->
+<menu><id>B8</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Pemesanan</n><l>../data_pemesanan/index.php</l></menu>
+<menu><id>B9</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Penjualan</n><l>../data_penjualan/index.php</l></menu>
+<menu><id>B10</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Produk</n><l>../data_produk/index.php</l></menu>
+<menu><id>B11</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Profil</n><l>../data_profil/index.php</l></menu>
+<menu><id>B12</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Supplier</n><l>../data_supplier/index.php</l></menu>
+<!-- SUB MENU -->
+<menu><id>C1</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Admin</n><l>../data_admin/index.php?input=cetak</l></menu>
+<menu><id>C2</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Bank</n><l>../data_bank/index.php?input=cetak</l></menu>
+<menu><id>C3</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Kategori</n><l>../data_kategori/index.php?input=cetak</l></menu>
+<menu><id>C4</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Komentar</n><l>../data_komentar/index.php?input=cetak</l></menu>
+<menu><id>C5</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Ongkir</n><l>../data_ongkir/index.php?input=cetak</l></menu>
+<menu><id>C6</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Pelanggan</n><l>../data_pelanggan/index.php?input=cetak</l></menu>
+<!--<menu><id>C7</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Pembelian</n><l>../data_pembelian/index.php?input=cetak</l></menu>-->
+<menu><id>C8</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Pemesanan</n><l>../data_pemesanan/index.php?input=cetak</l></menu>
+<menu><id>C9</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Penjualan</n><l>../data_penjualan/index.php?input=cetak</l></menu>
+<menu><id>C10</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Produk</n><l>../data_produk/index.php?input=cetak</l></menu>
+<menu><id>C11</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Profil</n><l>../data_profil/index.php?input=cetak</l></menu>
+<menu><id>C12</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Supplier</n><l>../data_supplier/index.php?input=cetak</l></menu>
+<!-- SUB MENU -->
+<menu><id>X1</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Admin</n><l>../data_admin/index.php</l></menu>
+<menu><id>X2</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Bank</n><l>../data_bank/index.php</l></menu>
+<menu><id>X3</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Kategori</n><l>../data_kategori/index.php</l></menu>
+<!--<menu><id>X4</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Komentar</n><l>../data_komentar/index.php</l></menu>-->
+<menu><id>X5</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Ongkir</n><l>../data_ongkir/index.php</l></menu>
+<menu><id>X6</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Pelanggan</n><l>../data_pelanggan/index.php</l></menu>
+<!--<menu><id>X7</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Pembelian</n><l>../data_pembelian/index.php</l></menu>-->
+<menu><id>X8</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Pemesanan</n><l>../data_pemesanan/index.php</l></menu>
+<menu><id>X9</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Penjualan</n><l>../data_penjualan/index.php</l></menu>
+<menu><id>X10</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Produk</n><l>../data_produk/index.php</l></menu>
+<menu><id>X11</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Profil</n><l>../data_profil/index.php</l></menu>
+<menu><id>X12</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Supplier</n><l>../data_supplier/index.php</l></menu></humans>

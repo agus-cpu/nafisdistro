@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<humans>
+<!-- MASTER MENU -->
+<menu><id>Home</id><s>0</s><t>s</t><i>fa fa-home</i><n>Home</n><l>?p=home</l></menu>
+<menu><id>Profil</id><s>0</s><t>s</t><i>fa fa-home</i><n>Profil</n><l>?p=profil</l></menu>
+<!--<menu><id>Panduan</id><s>0</s><t>s</t><i>fa fa-home</i><n>Panduan</n><l>?p=panduan</l></menu>-->
+<menu><id>Produk</id><s>0</s><t>s</t><i>fa fa-home</i><n>Produk</n><l>?p=produk</l></menu>
+<!--<menu><id>Produk</id><s>0</s><t>s</t><i>fa fa-home</i><n>Kategori</n><l>?p=Kategori</l></menu>
+--><menu><id>Keranjang</id><s>0</s><t>s</t><i>fa fa-home</i><n>Keranjang</n><l>?p=keranjang</l></menu>
+--><menu><id>Keranjang</id><s>0</s><t>s</t><i>fa fa-home</i><n>menuuniki</n><l>?p=Menuuniki</l></menu>
+<menu><id>Transaksi</id><s>0</s><t>s</t><i>fa fa-home</i><n>Transaksi</n><l>?p=transaksi</l></menu>
+<menu><id>Login</id><s>0</s><t>s</t><i>fa fa-home</i><n>Login</n><l>?p=login</l></menu>
+
+<!-- MASTER MENU -->
+</humans>
